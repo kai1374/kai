@@ -9,13 +9,13 @@ CCTV7,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
 CCTV8,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
 CCTV9,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
 CCTV10,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
-CCTV11,http://59.110.17.7:33701/migu720p/migu720p.php?id=667987558
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
-CCTV13,http://59.110.17.7:33701/migu720p/migu720p.php?id=608807423
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
-CCTV15,http://59.110.17.7:33701/migu720p/migu720p.php?id=673168223
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
-CCTV17,http://59.110.17.7:33701/migu720p/migu720p.php?id=673168256
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 
 
