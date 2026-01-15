@@ -11,7 +11,7 @@ CCTV9,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
 CCTV10,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV11
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
-CCTV13,https://iptv.catvod.com/live.php?id=CCTV13
+CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227333/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV15
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
