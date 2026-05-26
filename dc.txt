@@ -1,8 +1,0 @@
-//以下内容为互联网收集，只为自用。
-{ "storeHouse": [ 
-    {
-      "sourceName": "🍎欧歌仓库",
-      "sourceUrl": "https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"
-    }
-    ]
-}
